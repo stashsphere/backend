@@ -1,5 +1,12 @@
 # StashSphere
 
+⚠️⚠️⚠️
+
+THE DEVELOPMENT HAS MOVED TO [github.com/stashsphere/stashsphere](https://github.com/stashsphere/stashsphere/tree/main/backend).
+THIS REPOSITORY IS NOW ARCHIVED AND READ-ONLY. IT WILL BE DELETED ON 2026/02/01.
+
+⚠️⚠️⚠️
+
 ## Config
 
 Check `config/config.go` for the full set of options.
